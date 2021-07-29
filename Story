@@ -1,1 +1,3 @@
 Richa and Teacher are going to learn about advanced git commands today.
+
+Richa and Teacher are trying out advanced git commands in the form of a story.
